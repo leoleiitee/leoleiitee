@@ -10,4 +10,5 @@
   <a href = "mailto:leo.rleite@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%230077B5?style=for-the-badge&logo=Microsoft%20Outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leonardo-barboza-ribeiro-leite-b9bab120a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.facebook.com/LeonardoRibeiiroo/" target="_blank"><img src="https://img.shields.io/badge/-FAcebook-%230077B5?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
+  <a href="https://gitlab.com/leoleiitee" target="_blank"><img src="https://img.shields.io/badge/-GITLAB-%230077B5?style=for-the-badge&logo=GITLAB&logoColor=white" target="_blank"></a> 
 </div>

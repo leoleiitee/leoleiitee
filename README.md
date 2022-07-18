@@ -1,4 +1,4 @@
-## Oiii eu sou o Leonardo Ribeiro, programador ADVPL!
+## Oi eu sou o Leonardo Ribeiro, programador ADVPL!
 <div align="center">
   <a href="https://gitlab.com/leoleiitee">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leoleiitee&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

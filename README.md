@@ -19,6 +19,24 @@
 
 ---
 
+### 🧩 Também estou no GitLab!
+
+Além do GitHub, você também pode me encontrar no [GitLab](https://gitlab.com/leoleiitee), onde compartilho projetos e experimentos como:
+
+- 🔧 Integrações com Protheus  
+- 📊 Ferramentas internas em ADVPL  
+- 🧪 Testes com Angular + PO-UI  
+
+[![GitLab](https://img.shields.io/badge/-GitLab-%23FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/leoleiitee)
+
+---
+
+### 📊 Animação de Contribuições
+
+![Snake animation](https://github.com/leoleiitee/leoleiitee/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ### 🌐 Onde me encontrar
 
 <div align="center">
